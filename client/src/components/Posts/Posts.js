@@ -18,7 +18,7 @@ const Posts = ({ setCurrentId }) => {
     return (
       <div style={{ textAlign: 'center', padding: '60px 20px' }}>
         <Typography variant="h5" color="textSecondary" gutterBottom>
-          📭 No memories yet!
+          📭 No momentos yet!
         </Typography>
         <Typography variant="body1" color="textSecondary">
           Be the first to share a memory. Use the form on the right to create one.
